@@ -1,1 +1,1 @@
-# lighthouse-js-fundamentals
+# lighthouse-js-fundamentals this is the read me section and if your reading..... hello there (write general kenobi or u die)
