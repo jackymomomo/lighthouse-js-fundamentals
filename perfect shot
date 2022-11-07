@@ -1,0 +1,81 @@
+// const moves = ['north', 'north', 'west', 'west', 'north', 'east','north']  
+
+
+
+
+// const finalPosition = function (moves) {
+//   let y = 0;
+//   let x = 0;
+
+
+
+//   for ( let i = 0; i < moves.length; i++){
+//     if (moves[i] === 'north'){
+//       y++;
+//     } else if (moves[i] === 'south'){
+//       y--;
+//     }else if (moves[i] === 'west'){
+//      x++;
+//     } else if (moves[i] === 'east'){
+//       x--;
+//     }
+//   }
+//   return [x,y]
+
+// }
+  
+// console.log(finalPosition(moves))
+
+  
+
+
+
+
+
+
+
+
+//  // for (const final of moves){
+// //   position = moves 
+// //   if (position === "north"){
+// //     return position + 1
+// //   }
+
+
+// // }
+
+
+
+
+// let calculateRectangleArea= (length, width) => {
+//   if (length > 0 && width > 0 ){
+//     return length * width;
+//   }
+  
+// } 
+// let calculateTriangleArea = (base, height) => {
+//   if( base > 0 && height > 0){
+//     return base * height / 2
+//   }
+
+// }
+// let calculateCircleArea = (radius) => {
+//   if (radius > 0 ) {
+//     return Math.PI * radius ** 2
+//   }
+
+// }
+
+// console.log(calculateRectangleArea(10, 5));     // should print 50
+// console.log(calculateRectangleArea(1.5, 2.5));  // should print 3.75
+// console.log(calculateRectangleArea(10, -5));    // should print undefined
+
+// console.log(calculateTriangleArea(10, 5)); // should print 25
+// console.log(calculateTriangleArea(3, 2.5)); // should print 3.75
+// console.log(calculateTriangleArea(10, -5)); // should print undefined
+
+// console.log(calculateCircleArea(10)); // should print 314.159...
+// console.log(calculateCircleArea(3.5)); // should print 38.484...
+// console.log(calculateCircleArea(-1)); // should print undefined
+
+
